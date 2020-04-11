@@ -1,4 +1,4 @@
-//write by zhaoqi
+//write by zhouyi
 #include <windows.h>
 #include <iostream>
 #include <string>
